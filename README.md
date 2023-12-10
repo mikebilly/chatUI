@@ -1,3 +1,2 @@
-Ảnh minh họa
-=================
-<img width="255" alt="image" src="https://github.com/hoanglmv/chat/assets/131538387/d3cd0e5c-f6cd-4623-90e4-d0d1b39b8658">
+
+![Ảnh](https://github.com/mikebilly/chatUI/assets/29500216/38ff99da-aec1-48b6-ad71-23eb5bcb0acc)
